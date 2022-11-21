@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NoteTakingApp</string>
+    <string name="no_notes">You have no Notes yet</string>
+    <string name="add_new_note">Add new Note</string>
+</resources>
